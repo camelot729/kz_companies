@@ -1,0 +1,2 @@
+class KzCompany < ApplicationRecord
+end
